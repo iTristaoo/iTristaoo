@@ -90,8 +90,8 @@ const iTristao = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iTristaoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=A855F7&title_color=A855F7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTristaoo&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" />
+<img height="160" src="https://streak-stats.demolab.com?user=iTristaoo&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=iTristaoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=A855F7&title_color=A855F7&cache_seconds=1800" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iTristaoo&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff" />
 
