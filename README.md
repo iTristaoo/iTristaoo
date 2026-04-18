@@ -15,6 +15,7 @@
 const iTristao = {
   foco:    "automações com IA & n8n",
   stack:   ["n8n", "LLM", "WhatsApp", "GHL", "ClickUp"],
+  web:     ["HTML", "CSS", "WordPress"],
   paixão:  "transformar processos manuais em fluxos inteligentes",
   base:    "Brasil 🇧🇷",
 }
@@ -31,6 +32,9 @@ const iTristao = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </div>
 
