@@ -6,7 +6,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
 ![Visitors](https://komarev.com/ghpvc/?username=iTristaoo&color=A855F7&style=for-the-badge&label=visitas)
-[![Portfolio](https://img.shields.io/badge/Portfólio-%23A855F7.svg?style=for-the-badge&logo=github&logoColor=white)](https://itristaoo.github.io/portfolio-site/)
 
 </div>
 
