@@ -29,11 +29,11 @@ const iTristao = {
 
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </div>
@@ -42,48 +42,65 @@ const iTristao = {
 
 ### 🚀 projetos
 
+> 🔒 Cases anonimizados — cada card abre um repositório com problema, arquitetura (diagrama) e destaques técnicos.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Agente SDR com IA</h4>
-      <p>SDR completo no WhatsApp integrado ao GoHighLevel. Recebe mensagem, entende contexto, consulta agenda, anota atendimentos e agenda consultas — sem intervenção humana.</p>
+      <h4><a href="https://github.com/iTristaoo/ai-receptionist-clinics">🤖 Recepcionista de IA no WhatsApp</a></h4>
+      <p>Atende, qualifica e agenda pacientes 24/7. Entende texto, áudio e imagem, junta mensagens picotadas e nunca atropela atendimento humano.</p>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 Sistema RAG</h4>
-      <p>Base de conhecimento com busca semântica. O agente consulta documentos internos antes de responder — respostas precisas e contextualizadas sem alucinações.</p>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+      <h4><a href="https://github.com/iTristaoo/rag-knowledge-base">🧠 Base de Conhecimento (RAG)</a></h4>
+      <p>Busca semântica com pgvector + embeddings. O agente responde ancorado na informação real da clínica — sem alucinação.</p>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Embeddings-412991?style=flat&logo=openai&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔗 CRM Automation — GHL ↔ ClickUp</h4>
-      <p>Sincronização bidirecional entre GoHighLevel e ClickUp. Lead no GHL vira task no ClickUp. Empresa no ClickUp configura o GHL. Erros do n8n viram tasks automáticas.</p>
+      <h4><a href="https://github.com/iTristaoo/ai-scheduling-tools">📅 Ferramentas de Agendamento</a></h4>
+      <p>Tools que o agente chama para marcar, remarcar e cancelar consultas direto no CRM, com disponibilidade real e regras de negócio.</p>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
       <img src="https://img.shields.io/badge/GoHighLevel-1a1a1a?style=flat"/>
-      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4>📋 Tasks via WhatsApp</h4>
-      <p>Criação e execução de tarefas internas pelo WhatsApp. Task criada no n8n → responsável recebe no WhatsApp. Ao executar, o sistema registra automaticamente.</p>
+      <h4><a href="https://github.com/iTristaoo/ai-followup-automation">💬 Follow-up com IA</a></h4>
+      <p>Reativa leads parados com mensagem gerada por IA — contextual e no tom certo. Escalona em níveis, do "puxa assunto" ao "encerra com dignidade".</p>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pg__cron-336791?style=flat&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎯 Prospecção Automatizada</h4>
-      <p>Captura leads do GHL e dispara cadência automatizada de contato. Do lead frio ao agendamento sem esforço manual.</p>
-      <img src="https://img.shields.io/badge/GoHighLevel-1a1a1a?style=flat"/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Relatórios Automáticos</h4>
-      <p>Relatório diário com métricas e resumo de atendimentos, gerado e entregue automaticamente no WhatsApp. Zero cliques.</p>
+      <h4><a href="https://github.com/iTristaoo/ai-sdr-whatsapp">🎯 SDR Virtual</a></h4>
+      <p>Pré-venda no WhatsApp: recebe o lead, qualifica em conversa natural e empurra no funil até o agendamento, entregando só o lead quente.</p>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/iTristaoo/meta-ads-attribution">📊 Atribuição de Meta Ads</a></h4>
+      <p>Liga cada lead ao anúncio que o trouxe e coleta o gasto diário das campanhas. CPL e ROAS reais, não só cliques.</p>
+      <img src="https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/iTristaoo/multitenant-clinic-dashboard">🖥️ Dashboard Multi-Clínica</a></h4>
+      <p>Painel Next.js onde cada clínica gerencia o próprio agente: base de conhecimento, horários e follow-ups. Multi-tenant por schema Postgres.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/iTristaoo/n8n-observability">🔔 Observabilidade n8n</a></h4>
+      <p>Captura falha em qualquer workflow e alerta a equipe (ClickUp/WhatsApp), com fluxo de contingência. Descobre o erro antes do cliente.</p>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white"/>
     </td>
   </tr>
 </table>
