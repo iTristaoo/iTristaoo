@@ -4,10 +4,13 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
 ![Visitors](https://komarev.com/ghpvc/?username=iTristaoo&color=A855F7&style=for-the-badge&label=visitas)
 
 </div>
+
+---
+
+> 🦷 **Para clínicas e negócios de serviço:** agentes de IA que **atendem, qualificam e agendam** pacientes no WhatsApp — 24/7, sem aumentar a equipe.
 
 ---
 
@@ -114,6 +117,14 @@ const iTristao = {
 <img src="https://streak-stats.demolab.com?user=iTristaoo&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&dates=A855F7" />
 
 </div>
+
+---
+
+### 📲 vamos conversar?
+
+**Quer um agente desses atendendo no WhatsApp da sua clínica?** Me chama — respondo rápido.
+
+<!-- iTristaoo: troque pelos seus links reais → ex: [WhatsApp](https://wa.me/55SEUNUMERO) · [Email](mailto:seu@email.com) · [Calendly](https://calendly.com/seu-link) -->
 
 ---
 
