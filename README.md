@@ -10,7 +10,7 @@
 
 ---
 
-> 🦷 **Para clínicas e negócios de serviço:** agentes de IA que **atendem, qualificam e agendam** pacientes no WhatsApp — 24/7, sem aumentar a equipe.
+> 🦷 **Para clínicas e negócios de serviço:** agentes de IA que **atendem, qualificam e agendam** pacientes no WhatsApp 24/7, sem aumentar a equipe.
 
 ---
 
